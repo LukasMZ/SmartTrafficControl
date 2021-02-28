@@ -10,7 +10,9 @@ Die deutsche Verkehrsministerkonferenz beziffert die notwendigen Ausgaben für d
 
 Dank der Echtzeit-Datenübertragung über 5G wird eine Auswertung der Betriebsdaten der städtischen Infrastruktur mittels KI möglich und schafft die Grundlage für eine Revolution der bestehnden Serviceverträge weg von einem Flatrate Modell, hin zu einem wirtschaftlich attraktiveren pay-per-need Ansatz.
 
+Untersuchung des MIT haben ergeben, dass nur ein kleiner Teil aller Verkehrsteilnehmer letztendlich Auslöser für Staus und Verkehrsbehinderungen sind. Durch eine datenunterstützte, intelligente und vernetzte Verkehrsführung lassen sich alle Teilnehmer so auf die Infrasturktur verteilen, dass sich die durchschnittliche Reisedauer um fast 20% verkürzt.
 
+Neben den wirtschaftlichen Vorteilen und der deutlich verbesserten Verkehrsführung ist eine mit 5G vernetzte Innenstadt Tech-Enabler für das autonome Fahren und somit ein weiterer Schritt in Richtung Sicherheit und Nachhaltigkeit.
 
 
 ## Name des Teams und der einzelnen Teammitglieder
